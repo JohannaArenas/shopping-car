@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1,
+      "name": "sensor 1",
+      "descripcion": "este sensor contiene",
+      "price": 10,
+      "img": "/src/components/img/pexels-panumas-nikhomkhai-17155842.jpg",
+      
+      "quanty": 1
+    },
+    {
+      "id": 2,
+      "name": "Sensor 2",
+      "descripcion": "este sensor contiene",
+      "price": 20,
+      "img": "/src/components/img/s1.jpg",
+      "quanty": 1
+    },
+  
+    {
+      "id": 3,
+      "name": "Sensor 3",
+      "descripcion": "este sensor contiene",
+      "price": 27,
+      "img": "/src/components/img/s3.jpg",
+      "quanty": 1
+    },
+    {
+      "id": 4,
+      "name": "Sensor 4",
+      "descripcion": "este sensor contiene",
+      "price": 18,
+      "img": "/src/components/img/s4.jpg",
+      "quanty": 1
+    }
+  ]
